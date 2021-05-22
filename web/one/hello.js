@@ -1,0 +1,6 @@
+console.log('hellow wwworld')
+console.log(45)
+console.log('my score'+10)
+console.log ('50'+50)
+console.log('750.800')
+console.log(450+750)
